@@ -3,7 +3,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,sqlite,postgres,git,docker,linux,aws&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,postgres,git,docker,&perline=6" />
 </p>
 
 ---
@@ -25,4 +25,4 @@
 
 ---
 
-⭐️ From [YOUR-USERNAME](https://github.com/Samri-A)
+[YOUR-USERNAME](https://github.com/Samri-A)

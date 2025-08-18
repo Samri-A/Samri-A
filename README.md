@@ -1,11 +1,28 @@
-- 👋 Hi, I’m Samrawit
-- 👀 I’m interested in Ai.
-- 🌱 I’m currently learning Data Sceince and Ai.
-- 💞️ I’m looking to collaborate on Machine learning and Ai.
-- 📫 To reach me - email at samrawitkidaneh@gmail.com
+<h1 align="center">Hi 👋, I'm Samrawit Asfaw</h1>
+<h3 align="center">🚀 Developer | 💡 Builder | 🌍 Open Source Enthusiast</h3>
 
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,sqlite,postgres,git,docker,linux,aws&perline=6" />
+</p>
 
-<!---
-Samri-A/Samri-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ From [YOUR-USERNAME](https://github.com/Samri-A)

@@ -14,7 +14,9 @@
 
 Hello 👋! I'm Samrawit Asfaw, a web and AI developer passionate about building practical software solutions. I enjoy turning ideas into real, working applications. I focus on clean, efficient code and creative problem-solving. When I’m not coding, I’m exploring AI tools, learning new frameworks, and experimenting with new projects. Let’s connect and create something amazing together!
 
-## Tech Stack I Work With
+
+<h3 align="center">Tech Stack I Work With</h3>
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,react,django,vue,nodejs,fastapi,postgres,tensorflow,sklearn,mongodb,mysql,git&perline=20" />

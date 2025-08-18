@@ -1,3 +1,15 @@
+
+<p align="center">
+  <a href="https://linkedin.com/in/samrawit-asfaw" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/samli_documentation" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%23007AB8.svg?&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:samrawitasfaw8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <h3 align="center">🚀 Developer | 💡 Builder | 🌍 Real-World Problem Solver</h3>
 
 Hello 👋! I'm Samrawit Asfaw, a web and AI developer passionate about building practical software solutions. I enjoy turning ideas into real, working applications. I focus on clean, efficient code and creative problem-solving. When I’m not coding, I’m exploring AI tools, learning new frameworks, and experimenting with new projects. Let’s connect and create something amazing together!
@@ -13,16 +25,3 @@ Hello 👋! I'm Samrawit Asfaw, a web and AI developer passionate about building
 </p>
 
 ---
-
-## Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/samrawit-asfaw" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/samli_documentation" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%23007AB8.svg?&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:samrawitasfaw8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white" />
-  </a>
-</p>

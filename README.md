@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">🚀 Developer | 💡 Builder | 🌍 Real-World Problem Solver</h3>
 
-Hello 👋! I'm Samrawit Asfaw, a web and AI developer passionate about building practical software solutions. I enjoy turning ideas into real, working applications. I focus on clean, efficient code and creative problem-solving. When I’m not coding, I’m exploring AI tools, learning new frameworks, and experimenting with new projects. Let’s connect and create something amazing together!
+Hello 👋! I'm Samrawit Asfaw, a web and AI developer passionate about building practical software solutions. I enjoy turning ideas into real, working applications. I focus on clean, efficient code and creative problem-solving. When I’m not coding, I’m exploring AI tools, learning new frameworks, and experimenting with new projects. Let’s connect and create something amazing together! 
 
 
 <h3 align="center">Tech Stack I Work With</h3>
@@ -26,4 +26,4 @@ Hello 👋! I'm Samrawit Asfaw, a web and AI developer passionate about building
   <img src="https://github-readme-stats.vercel.app/api?username=Samri-A&show_icons=true&theme=dark&hide_border=true" height="160" width="full" />
 </p>
 
----
+

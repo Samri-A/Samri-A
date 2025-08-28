@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://linkedin.com/in/samrawit-asfaw" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" />

@@ -8,6 +8,10 @@
   <a href="mailto:samrawitasfaw8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://samrawit-asfaw.vercel.app/">
+    <img src = "https://img.shields.io/static/v1?label=Web&message=Internet&color=white&logo=internetexplorer
+" />
+  </a>
 </p>
 <h3 align="center">🚀 Developer | 💡 Builder | 🌍 Real-World Problem Solver</h3>
 

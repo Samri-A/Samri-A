@@ -29,8 +29,9 @@ Hello 👋! I'm Samrawit Asfaw, a web and AI developer passionate about building
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samri-A&layout=compact&theme=dark&hide_border=true" height="160" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samri-A&layout=normal&theme=dark&hide_border=true" height="160" width="100%" />
 </p>
+
 
 
 

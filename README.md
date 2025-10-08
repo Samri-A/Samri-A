@@ -8,7 +8,7 @@
   <a href="mailto:samrawitasfaw8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://samrawit-asfaw.vercel.app/">
+  <a href="https://samrawit-asfaw-kidane.vercel.app/">
    <img src="https://img.shields.io/badge/Website-%23000000.svg?&logo=google-chrome&logoColor=white" />
   </a>
 </p>

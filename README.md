@@ -14,12 +14,12 @@
 </p>
 <!-- <h3 align="center">🚀 Developer | 🌍 Real-World Problem Solver</h3> -->
 
-<h3 align="center">Tech Stack I Work With</h3>
+<!-- <h3 align="center">Tech Stack I Work With</h3>
 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,react,django,vue,nodejs,fastapi,postgres,tensorflow,sklearn,mongodb,mysql,git&perline=20" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samri-A&show_icons=true&theme=dark&hide_border=true" height="160" width="full" />

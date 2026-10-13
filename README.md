@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&logo=gmail&logoColor=white" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samri-A&show_icons=true&theme=dark&hide_border=true" height="160" width="full" />
-</p>
+</p> -->
 
 
 

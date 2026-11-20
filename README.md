@@ -2,7 +2,7 @@
   <a href="https://linkedin.com/in/samrawit-asfaw" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/samli_documentation" target="_blank">
+  <a href="https://t.me/illusion9633" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%23007AB8.svg?&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:samrawitasfaw8@gmail.com">
